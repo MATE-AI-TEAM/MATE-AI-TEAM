@@ -3,7 +3,7 @@
 <!---- 🌱 I’m currently learning ...--->
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---- 📫 How to reach me ...--->
-- 😄 Pronouns: MATE.AI(http://aimate.me)
+- 😄 Pronouns: [MATE.AI](http://aimate.me)
 <!---- ⚡ Fun fact: ...--->
 
 <!---
